@@ -1,4 +1,4 @@
-DiscordBot「Winzig」
+DiscordBot
 
 最新論文の要約とチャットボット機能を搭載
 
